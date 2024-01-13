@@ -5,7 +5,7 @@ function generatePassword() {
   var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
   var lowerCase = "abcdefghijklmnopqrstuvwxyz";
   var numbers = "0123456789";
-  var specialCharacters = "!@#$%^&*-+=[]{}<>?/()";
+  var specialCharacters = " !#$%&'()*+,-./:;<=>?@[\]^_`{|}~";
   var multiChoice = "";
   var password = "";
 
