@@ -9,3 +9,4 @@ For this second challenge, we had to create a password generator using JavaScrip
 ![Web Application Screenshot](/Assets/scrnli_1_13_2024_3-14-40%20PM.png)
 
 ## Link to Deployed Application
+![Click here to view live link](https://lowerym.github.io/module-challenge-3/)
